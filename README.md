@@ -17,7 +17,7 @@ Forest) e interpretación de resultados.
 ├── notebook/
 │   └── proyecto_steam_analisis_predictivo.ipynb   
 ├── Bases_de_datos/
-│   └── games.csv                                                             
+│   └── games.csv                                                           
 ├── README.md
 └── requirements.txt
 ```
@@ -59,8 +59,7 @@ pip install -r requirements.txt
 
 ## 🎥 Video explicativo
 
-Ver (video/enlace_video.md) — duración 5-7 minutos, explicación en
-cámara del proyecto, código y resultados.
+Ver [(video/enlace_video.md)](https://drive.google.com/drive/folders/1Ce_QJmCDmDlUTSm4Ip4UtyPWf6Ex_J9-?usp=sharing)
 
 ## ⚖️ Ética y privacidad
 
